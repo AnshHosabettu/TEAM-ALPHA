@@ -27,6 +27,6 @@ Make sure you have the following installed:
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/team-alpha.git
+git clone https://github.com/AnshHosabettu/team-alpha.git
 cd team-alpha
 npm install
