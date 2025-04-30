@@ -32,3 +32,9 @@ cd team-alpha
 npm install
 ```
 ---
+![Team Alpha Preview](screenshots/HOME_PAGE.png)
+![Team Alpha Preview](screenshots/ADD_MEMBER_PAGE.png)
+![Team Alpha Preview](screenshots/VIEW_MEMBERS_PAGE.png)
+![Team Alpha Preview](screenshots/member_details_ansh.png)
+![Team Alpha Preview](screenshots/member_details_soumyapriyo.png)
+![Team Alpha Preview](screenshots/member_details_harish.png)
