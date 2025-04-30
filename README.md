@@ -32,9 +32,9 @@ cd team-alpha
 npm install
 ```
 ---
-HOME PAGE![Team Alpha Preview](screenshots/HOME_PAGE.png)
-ADD MEMBER PAGE![Team Alpha Preview](screenshots/ADD_MEMBER_PAGE.png)
-VIEW MEMBERS PAGE![Team Alpha Preview](screenshots/VIEW_MEMBERS_PAGE.png)
-MEMBER DETAILS - ANSH HOSABETTU![Team Alpha Preview](screenshots/member_details_ansh.png)
-MEMBER DETAILS - SOUMYAPRIYO KUNDU![Team Alpha Preview](screenshots/member_details_soumyapriyo.png)
-MEMBER DETAILS - HARISH B![Team Alpha Preview](screenshots/member_details_harish.png)
+# HOME PAGE![Team Alpha Preview](screenshots/HOME_PAGE.png)
+# ADD MEMBER PAGE![Team Alpha Preview](screenshots/ADD_MEMBER_PAGE.png)
+# VIEW MEMBERS PAGE![Team Alpha Preview](screenshots/VIEW_MEMBERS_PAGE.png)
+# MEMBER DETAILS - ANSH HOSABETTU![Team Alpha Preview](screenshots/member_details_ansh.png)
+# MEMBER DETAILS - SOUMYAPRIYO KUNDU![Team Alpha Preview](screenshots/member_details_soumyapriyo.png)
+# MEMBER DETAILS - HARISH B![Team Alpha Preview](screenshots/member_details_harish.png)
