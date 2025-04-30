@@ -30,3 +30,5 @@ Make sure you have the following installed:
 git clone https://github.com/AnshHosabettu/team-alpha.git
 cd team-alpha
 npm install
+```
+---
