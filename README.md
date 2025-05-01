@@ -17,8 +17,8 @@ Welcome to the **Team Alpha** frontend project! This is a modern, fast, and resp
 
 ## 📦 Getting Started
 
-### Prerequisites
-
+### Prerequisites 
+ 
 Make sure you have the following installed:
 
 - **Node.js** (v16 or higher)
